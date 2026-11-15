@@ -389,25 +389,4 @@ As restrições representam quantidades mínimas de vitaminas.
 
 ---
 
-# 🎯 Estratégia para Ganhar Pontos
 
-1. **Resolva primeiro as teóricas:** normalmente exigem menos tempo.
-2. **Leia se pede máximo ou mínimo:** isso muda a resposta.
-3. **Teste alternativas em programação linear:** elimine as inviáveis.
-4. **Em grafos, some os pesos:** não escolha pelo desenho.
-5. **Em Prim, conte as arestas:** sempre `n - 1`.
-6. **No caixeiro viajante, inclua o retorno.**
-7. **No dual, observe os limites das restrições.**
-8. **Em alocação, não repita máquinas.**
-9. **Em multicritério, observe o sentido de preferência de cada critério.**
-10. **Em interpolação, confira o grau solicitado.**
-
-## Prioridade de estudo
-
-**Alta:** Grafos, Simplex, Dualidade, Caixeiro Viajante e Interpolação.
-
-**Média:** Alocação, Branch and Bound e Multicritério.
-
-**Para decorar:** conceitos de Pesquisa Operacional, Fluxos e Redes e Análise de Sensibilidade.
-
-> **Regra de ouro:** identifique o método, elimine alternativas impossíveis e faça apenas os cálculos necessários.
