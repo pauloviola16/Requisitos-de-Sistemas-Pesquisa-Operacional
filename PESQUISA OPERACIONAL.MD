@@ -389,4 +389,5 @@ As restrições representam quantidades mínimas de vitaminas.
 
 ---
 
+4.0 / 8.0
 
